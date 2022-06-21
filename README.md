@@ -1,0 +1,2 @@
+# JLib
+Lightweight Javascript Framework
